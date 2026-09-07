@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**JanTrejtnar/JanTrejtnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jan Trejtnar** — software developer who enjoys building things & learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on personal and development projects
+* 🌱 Experimenting with new technologies
+* 💻 Building cool things
+* 🤝 Open to interesting projects and collaborations
+
+### 🛠️ Tech & Tools
+
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Git` · `GitHub` · `ASP.NET` · `Power Platform` · `Azure` · `SharePoint`
+
+### 📌 Featured Projects
+
+Check out some of my projects below 👇
+
+Coming soon :-)
+
+### 📫 Get in touch
+
+Feel free to reach out if you want to talk about development, projects, or just tech in general.
+
+---
+
+⭐️ Thanks for stopping by!
