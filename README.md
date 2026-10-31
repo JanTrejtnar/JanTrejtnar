@@ -17,12 +17,8 @@ I'm **Jan Trejtnar** — software developer who enjoys building things & learnin
 
 Check out some of my projects below 👇
 
-<a href="https://github.com/JanTrejtnar/madeira-timetables">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanTrejtnar&repo=madeira-timetables&theme=radial" />
-</a>
-<a href="https://github.com/JanTrejtnar/madeira-weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanTrejtnar&repo=madeira-weather&theme=radial" />
-</a>
+- ⚡ **[Madeira Bus Timetables](https://github.com/JanTrejtnar/madeira-timetables)** – *Custom timetable app for buses at Madeira*.
+- 🌦️ **[Madeira Weather](https://github.com/JanTrejtnar/madeira-weather)** – *Automated weather and cloud inversion prediction bot for Madeira*.
 
 ### 📫 Get in touch
 
