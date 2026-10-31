@@ -17,7 +17,12 @@ I'm **Jan Trejtnar** — software developer who enjoys building things & learnin
 
 Check out some of my projects below 👇
 
-Coming soon :-)
+<a href="https://github.com/JanTrejtnar/madeira-timetables">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanTrejtnar&repo=madeira-timetables&theme=radial" />
+</a>
+<a href="https://github.com/JanTrejtnar/madeira-weather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanTrejtnar&repo=madeira-weather&theme=radial" />
+</a>
 
 ### 📫 Get in touch
 
